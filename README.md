@@ -5,4 +5,4 @@
 
 - output：正確名稱
 
-- 使用 Model：ResNet50
+- 使用 Model：ResNet18
