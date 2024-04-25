@@ -4,3 +4,5 @@
 - input：食物圖像
 
 - output：正確名稱
+
+- 使用 Model：ResNet50
